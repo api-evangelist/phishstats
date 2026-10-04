@@ -39,7 +39,6 @@ apis:
   - name: PhishStats
     description: "Phishing database"
     humanURL: https://phishstats.info/
-    baseURL: https://phishstats.info/
     tags:
       - Security
     properties:
