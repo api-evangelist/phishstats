@@ -27,7 +27,7 @@ description: "Phishing database"
 url: https://phishstats.info/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Security"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://phishstats.info/
 common:
+  - url: https://blog.phishstats.info/rss/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/phishstats-domain-security.yml
   - type: Website
